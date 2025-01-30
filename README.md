@@ -11,7 +11,7 @@ To install Multi-Tool, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/moddatei/multi-tool.git
+   git clone https://github.com/moddatei/multitool.git
    ```
 2. Navigate to the project directory:
    ```bash
